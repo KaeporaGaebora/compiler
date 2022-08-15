@@ -37,6 +37,6 @@
   ],
   "bin": { "elm": "bin/elm" },
   "dependencies": {
-    "request": "^2.88.0"
+    "superagent": "^8.0.0"
   }
 }

@@ -1,7 +1,7 @@
 var fs = require('fs');
 var package = require('./package.json');
 var path = require('path');
-var request = require('request');
+var request = require('superagent');
 var zlib = require('zlib');
 
 
